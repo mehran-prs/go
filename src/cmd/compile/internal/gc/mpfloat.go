@@ -15,7 +15,7 @@ import (
 const (
 	// Maximum size in bits for Mpints before signalling
 	// overflow and also mantissa precision for Mpflts.
-	Mpprec = 512
+	Mpprec = 600
 	// Turn on for constant arithmetic debugging output.
 	Mpdebug = false
 )
